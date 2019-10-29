@@ -3,8 +3,8 @@
 //      are changed infrequently
 //
 
-#if !defined(AFX_STDAFX_H__3E676446_9D16_4FFC_AEEE_CB4BCBCB3445__INCLUDED_)
-#define AFX_STDAFX_H__3E676446_9D16_4FFC_AEEE_CB4BCBCB3445__INCLUDED_
+#if !defined(AFX_STDAFX_H__D130A535_8063_47DE_91C3_90D3448D090C__INCLUDED_)
+#define AFX_STDAFX_H__D130A535_8063_47DE_91C3_90D3448D090C__INCLUDED_
 
 #if _MSC_VER > 1000
 #pragma once
@@ -19,4 +19,4 @@
 //{{AFX_INSERT_LOCATION}}
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
-#endif // !defined(AFX_STDAFX_H__3E676446_9D16_4FFC_AEEE_CB4BCBCB3445__INCLUDED_)
+#endif // !defined(AFX_STDAFX_H__D130A535_8063_47DE_91C3_90D3448D090C__INCLUDED_)
